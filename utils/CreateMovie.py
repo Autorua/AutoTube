@@ -101,6 +101,7 @@ class CreateMovie():
         clip.audio = new_audioclip
         clip.write_videofile("video.mp4", fps = 24)
 
+
         
         if os.path.exists(os.path.join(dir_path, "video_clips.mp4")):
             os.remove(os.path.join(dir_path, "video_clips.mp4"))

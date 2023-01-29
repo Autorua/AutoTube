@@ -1,0 +1,27 @@
+#mmsreddit = "terriblefacebookmemes"
+#mmsreddit = "ComedyCemetery"
+#mmsreddit = "DankMemesFromSite19"
+#mmsreddit = "Animemes"
+#mmsreddit = "PoliticalCompassMemes"
+#mmsreddit = "TheRightCantMeme"
+#mmsreddit = "Grimdank"
+#mmsreddit = "dndmemes"
+#mmsreddit = "traaaaaaannnnnnnnnns"
+#mmsreddit = "PrequelMemes"
+#mmsreddit = "goodanimemes"
+#mmsreddit = "PewdiepieSubmissions"
+mmsreddit = "AdviceAnimals"
+#mmsreddit = "teenagers"
+#mmsreddit = "MadeOfStyrofoam"
+#mmsreddit = "MinecraftMemes"
+#mmsreddit = "Brawlstars"
+#mmsreddit = "danganronpa"
+#mmsreddit = "memes"
+#mmsreddit = "dankmemes"
+#mmsreddit = "meme"
+#mmsreddit = "Memes_Of_The_Dank"
+#mmsreddit = "2meirl4meirl"
+
+
+
+
